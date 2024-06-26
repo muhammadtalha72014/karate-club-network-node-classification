@@ -7,6 +7,8 @@ This project involves node classification of the Karate Club Network using diffe
 🎲 Random Walk Embeddings: Utilized Random Walks to generate node embeddings for classification.
 🌐 Node2Vec Embeddings: Implemented Node2Vec for learning node embeddings and performed node classification.
 These approaches help in understanding the structural roles of nodes in the network and predicting node labels based on learned embeddings. The original dataset is shown below: 
-![image](https://github.com/muhammadtalha72014/karate-club-network-node-classification/assets/173653061/0c42927a-8d91-46fd-a4cc-1ccff2005f4a)
+![Picture2](https://github.com/muhammadtalha72014/karate-club-network-node-classification/assets/173653061/ed2ac53a-c623-47ea-bac6-bac3e4ffa48c)
+
 After node classification,
-![image](https://github.com/muhammadtalha72014/karate-club-network-node-classification/assets/173653061/6a71ade1-fc4f-4d7f-bd90-387aa70bea5e)
+![Picture1](https://github.com/muhammadtalha72014/karate-club-network-node-classification/assets/173653061/0f59720a-0a5c-44a3-b220-69bb8de7dcd4)
+
